@@ -13,6 +13,7 @@
     "nuxt": "^3.14.1592",
     "nuxt-icons": "^3.2.1",
     "vue": "latest",
+    "vue-confetti-explosion": "^1.0.2",
     "vue-router": "latest"
   },
   "devDependencies": {
